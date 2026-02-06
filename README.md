@@ -1,6 +1,7 @@
 <h1>Meu primeiro projeto utiliando <strong>JavaScript<strong>, um conversor de moedas dinâmico estilizado com CSS.</h1>
 
 <bold>O projeto é 100% funcional, convertendo REAL, DOLLAR, EURO, LIBRA e BITCOINS.</bold> 
+<p>📌Deploy: https://malcomtribe-ai.github.io/primeiro-projeto-JS-convert-money/</p>
 <br>
 <h2>Técnologias:</h2>
 <p>HTML</p>
